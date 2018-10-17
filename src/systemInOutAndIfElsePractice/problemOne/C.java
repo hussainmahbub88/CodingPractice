@@ -12,10 +12,10 @@ public class C {
 		char c = user_input.next().charAt(0);
 		System.out.println("Enter the float value : ");
 		float floatValue = user_input.nextFloat();
-		
-		System.out.println("Integer Value is : "+num);
-		System.out.println("Character Value is : "+c);
-		System.out.println("Float value is : "+floatValue);
+
+		System.out.println("Integer Value is : " + num);
+		System.out.println("Character Value is : " + c);
+		System.out.println("Float value is : " + floatValue);
 	}
 
 }
