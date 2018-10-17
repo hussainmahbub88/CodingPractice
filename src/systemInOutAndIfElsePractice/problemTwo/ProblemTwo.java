@@ -6,7 +6,7 @@ import java.math.*;
 public class ProblemTwo {
 	public static void main(String[] args) {
 	
-		Scanner sc = new Scanner (System.in);
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the value of a : ");
 		double a = sc.nextDouble();
 		System.out.println("Enter the value of b : ");
