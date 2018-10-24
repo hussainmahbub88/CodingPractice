@@ -22,7 +22,7 @@ public class ProblemFourteen {
 			sum = sum + num;
 		}
 
-		float avg = sum / 10;
+		double avg = sum / 10;
 		System.out.println("The minimum number is : " + min);
 		System.out.println("The average is : " + avg);
 		System.out.println("The maximum number is : " + max);
