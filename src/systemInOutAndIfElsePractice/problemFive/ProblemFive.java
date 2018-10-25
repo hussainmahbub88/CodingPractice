@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class ProblemFive {
 
+	/*
+	 * Write a program to SWAP the values of two integers.
+	 */
+
 	public static void main(String[] args) {
 		Scanner user_input = new Scanner(System.in);
 		System.out.println("Enter the integer 1 value : ");

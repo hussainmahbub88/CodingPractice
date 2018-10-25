@@ -3,7 +3,10 @@ package systemInOutAndIfElsePractice.problemTen;
 import java.util.Scanner;
 
 public class ProblemTen {
-
+	/*
+	 * Given 4 numbers, Find the sum of the HIGHEST 3 numbers
+	 */
+	
 	public static void main(String[] args) {
 		Scanner user_input = new Scanner(System.in);
 		System.out.println("Enter the 1st number : ");

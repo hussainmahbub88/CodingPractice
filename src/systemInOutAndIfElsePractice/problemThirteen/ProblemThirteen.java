@@ -3,6 +3,10 @@ package systemInOutAndIfElsePractice.problemThirteen;
 import java.util.Scanner;
 
 public class ProblemThirteen {
+	/*
+	 * Write a program, which will take MARK as input and show grade as output.
+	 * Grading system: 80 or above A+ 70 or above A 60 or above A- Below 60 F
+	 */
 
 	public static void main(String[] args) {
 		Scanner user_input = new Scanner(System.in);

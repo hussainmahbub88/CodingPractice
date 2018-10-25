@@ -4,11 +4,12 @@ import java.util.Scanner;
 
 public class ProblemNineteen {
 
+	/*
+	 *  Given two integers, A and B, find A to the power B.
+	 */
+	
 	public static void main(String[] args) {
-		/*
-		 *  Given two integers, A and B, find A to the power B.
-		 */
-		
+	
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter both the integers here :");
 		int A = sc.nextInt();

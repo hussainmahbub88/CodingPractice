@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class ProblemFour {
 
+	/*
+	 * Given the height of a person in foot, convert the height in centimeter
+	 */
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the height of a person in foot : ");

@@ -4,6 +4,12 @@ import java.util.Scanner;
 
 public class ProblemEight {
 
+	/*
+	 * Write a program which reads two integer values. If the first is less than the
+	 * second, print the message “up”. If the second is less than the first, print
+	 * the message “down” If the numbers are equal, print the message “equal”.
+	 */
+
 	public static void main(String[] args) {
 		Scanner user_input = new Scanner(System.in);
 		System.out.println("Enter the 1st integer value : ");

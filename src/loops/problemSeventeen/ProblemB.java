@@ -3,6 +3,9 @@ package loops.problemSeventeen;
 import java.util.Scanner;
 
 public class ProblemB {
+	/*
+	 * Write a program to reverse the digits of a given integer
+	 */
 
 	public static void main(String[] args) {
 		int num = 0, reversenum = 0;

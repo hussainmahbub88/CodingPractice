@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class A {
 
+	/*
+	 * Given the HEIGHT and WIDTH of a rectangle, Compute its area
+	 */
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the value of height : ");

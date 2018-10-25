@@ -3,7 +3,10 @@ package loops.problemForteen;
 import java.util.Scanner;
 
 public class ProblemFourteen {
-
+	/*
+	 * Write a program to read in 10 numbers and compute the average, maximum and minimum values
+	 */ 
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the numbers :");

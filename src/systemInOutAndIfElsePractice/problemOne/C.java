@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class C {
 
+	/*
+	 * Write a program to take an integer, a char and a float as input, and show the
+	 * values entered on the monitor
+	 */
 	public static void main(String[] args) {
 		Scanner user_input = new Scanner(System.in);
 		System.out.println("Enter the integer value : ");

@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class ProblemNine {
 
+	/*
+	 * Find the minimum numbers between 3 numbers
+	 */
+	
 	public static void main(String[] args) {
 		Scanner user_input = new Scanner(System.in);
 		System.out.println("Enter the 3 numbers : ");
